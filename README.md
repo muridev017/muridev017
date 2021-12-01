@@ -3,6 +3,7 @@
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MuriloMininel&show_icons=true&hide_title=true)<br>
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMininel&langs_count=10&layout=compact)
 
 
 <!--
