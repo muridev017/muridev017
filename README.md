@@ -1,7 +1,9 @@
 ### Olá, pessoal! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-murilomininel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-mininel-259011212/)](https://www.linkedin.com/in/murilo-mininel-259011212/)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MuriloMininel&show_icons=true&hide_title=true)<br>
+
 
 <!--
 **MuriloMininel/MuriloMininel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
