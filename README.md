@@ -1,6 +1,7 @@
 ### Olá, pessoal! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-murilomininel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-mininel-259011212/)](https://www.linkedin.com/in/murilo-mininel-259011212/)
 
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MuriloMininel)<br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=MuriloMininel&show_icons=true&hide_title=true)<br>
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMininel&langs_count=10&layout=compact)
