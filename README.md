@@ -23,6 +23,12 @@
 **Others Technologies:**
   
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/MuriloMininel/)](https://github.com/MuriloMininel/) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/MuriloMininel/)](https://github.com/MuriloMininel/)
+  
+##
+  
+**Databases:**
+  
+ [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/MuriloMininel/)](https://github.com/MuriloMininel/)
 
 <!--
 **MuriloMininel/MuriloMininel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
