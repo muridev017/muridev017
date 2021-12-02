@@ -1,5 +1,5 @@
 ### Olá, pessoal! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-murilomininel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-mininel-259011212/)](https://www.linkedin.com/in/murilo-mininel-259011212/)
+[![Linkedin Badge](https://img.shields.io/badge/-murilomininel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-mininel-259011212/)](https://www.linkedin.com/in/murilo-mininel-259011212/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MuriloMininel)](https://github.com/MuriloMininel)
 
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MuriloMininel)<br>
