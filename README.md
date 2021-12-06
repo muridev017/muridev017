@@ -2,12 +2,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-murilomininel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-mininel-259011212/)](https://www.linkedin.com/in/murilo-mininel-259011212/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MuriloMininel)](https://github.com/MuriloMininel)
 
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MuriloMininel)<br>
-![github stats](https://github-readme-stats.vercel.app/api?username=MuriloMininel&show_icons=true&hide_title=true)<br>
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMininel&langs_count=10&layout=compact)
+  <div align="center">
+  <a href="https://github.com/jeanramalho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloMininel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMininel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMininel&langs_count=10&layout=compact"/>
+</div>
+
+
 
 <Br>
-
+<div>
+  <img align="right" src="https://media-exp1.licdn.com/dms/image/C4E03AQG8w5o0gTRjlQ/profile-displayphoto-shrink_200_200/0/1627265681156?e=1644451200&amp;v=beta&amp;t=ARN_Kd4DjhHnjuEwOEHuGPrRkYnE2BvWOEGnZKe4jDg" alt="Murilo Mininel" id="ember282" class="ember-view profile-photo-edit__preview" width="200" height="200">
+</div>
 **Language:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/MuriloMininel/)](https://github.com/MuriloMininel/) 
