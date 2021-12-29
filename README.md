@@ -17,8 +17,6 @@
 </div>
   
  ##
-  
-**Language:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/MuriloMininel/)](https://github.com/MuriloMininel/) 
 
