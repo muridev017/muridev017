@@ -33,6 +33,9 @@
 **Databases:**
   
  [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/muridev017/)](https://github.com/muridev017/)
+  
+  
+  ![Snake animation](https://github.com/muridev017/muridev017/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **muridev017/muridev017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
