@@ -12,28 +12,22 @@
 
 <Br>
 
- ##
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/muridev017/)](https://github.com/muridev017/) 
 
-##
 
-**Front-end:**
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/muridev017/)](https://github.com/muridev017/)   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/muridev017/)](https://github.com/muridev017/) 
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div><br>
+  
 
-##
-  
-**Others Technologies:**
-  
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/muridev017/)](https://github.com/muridev017/) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/muridev017/)](https://github.com/muridev017/)
-  
-##
-  
-**Databases:**
-  
- [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/muridev017/)](https://github.com/muridev017/)
-  
   
   ![Snake animation](https://github.com/muridev017/muridev017/blob/output/github-contribution-grid-snake.svg)
 
