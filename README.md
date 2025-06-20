@@ -40,6 +40,35 @@
   
 </div><br>
   
+name: Generate Snake
+
+on:
+  schedule: 
+    - cron: "0 */12 * * *" # roda a cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate the snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: muridev017
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
