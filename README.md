@@ -41,31 +41,36 @@
 </div><br>
   
 
-name: Generate Datas
+name: Generate Snake
 
 on:
-  schedule: # execute every 12 hours
-   - cron: "0 */12 * * *"
+  schedule: 
+    - cron: "0 */12 * * *" # roda a cada 12 horas
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate the snake.svg
+        uses: Platane/snk@master
         with:
           github_user_name: muridev017
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 <!--
 **muridev017/muridev017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
